@@ -6,6 +6,7 @@ namespace Курсовая_Коптев
         {
             InitializeComponent();
             userControl11.BringToFront();
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
